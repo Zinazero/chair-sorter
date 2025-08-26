@@ -44,6 +44,7 @@
 
 table {
   height: 20%;
+  padding-bottom: 5em;
 }
 
 .person {
@@ -63,6 +64,7 @@ table {
   align-content: center;
   padding: 2em;
   border-radius: 25px;
+  flex-direction: column;
 }
 
 .row {
